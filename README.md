@@ -6,15 +6,15 @@ The school board believes that a dataset shows evidence of academic dishonesty; 
 ## Resources
 **Software:**
 
-  -Python 3.9.7
+    -Python 3.9.7
 
-  -Jupyter Notebook 6.4.6
+    -Jupyter Notebook 6.4.6
 
 **Data:**
 
-  -students_complete.csv
+    -students_complete.csv
 
-  -schools_complete.csv
+    -schools_complete.csv
 
 ## Results
 ### District Summary
@@ -28,9 +28,9 @@ After Changes
 
 District Summary Results:
 
-  -Changes that took place between the district summary before and after are minimal
+    -Changes that took place between the district summary before and after are minimal
 
-  -each category went down by <1%
+    -each category went down by <1%
 
 ### School Summary
 
