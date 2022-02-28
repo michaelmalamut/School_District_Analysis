@@ -5,11 +5,14 @@ The school board believes that a dataset shows evidence of academic dishonesty; 
 
 ## Resources
 Software:
+
 -Python 3.9.7
+
 -Jupyter Notebook 6.4.6
 
 Data:
 -students_complete.csv
+
 -schools_complete.csv
 
 ## Results
