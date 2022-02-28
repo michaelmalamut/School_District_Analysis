@@ -50,5 +50,7 @@ After changes
 
 ![top_schools_after](https://user-images.githubusercontent.com/97328622/155912848-136a5a2e-1ea5-40cd-9d17-074bb8297677.png)
 
+Thomas High School vs. Other Schools results:
+* All of schools remained the same after the changes
 
 ## Summary
