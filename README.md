@@ -13,7 +13,7 @@ The school board believes that a dataset shows evidence of academic dishonesty; 
 * schools_complete.csv
 
 ## Results
-### District Summary
+### District Summary:
 Before changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155909718-f54d8b8d-5c54-41da-88c4-e9d9084e7168.png)
@@ -27,7 +27,7 @@ District Summary Results:
 * Each category went down by <1%
 
 
-### School Summary
+### School Summary:
 Before changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155911096-f8d656df-2d59-4518-920f-daa756fe2c0b.png)
