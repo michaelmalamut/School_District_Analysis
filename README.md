@@ -53,4 +53,32 @@ After changes
 Thomas High School vs. Other Schools results:
 * All of schools remained the same after the changes
 
+### Scores by School Spending
+Before changes
+
+![scores_by_school_spending_before](https://user-images.githubusercontent.com/97328622/155913637-ee9a36ef-436b-4005-9839-03e2ef48c3a5.png)
+
+After changes
+
+![scores_by_school_spending_after](https://user-images.githubusercontent.com/97328622/155913650-920edbe1-35c2-4de0-9ad8-fbc8c203be48.png)
+
+### Scores by School Size
+Before changes
+
+![scores_by_school_size_before](https://user-images.githubusercontent.com/97328622/155913714-275cbbf1-5d02-4f22-a13d-6605194bef2a.png)
+
+After changes
+
+![scores_by_school_size_after](https://user-images.githubusercontent.com/97328622/155913727-ed189600-5e68-4252-b4b9-5fdcf2009ae4.png)
+
+### Scores by School Type
+Before changes
+
+![scores_by_school_type_before](https://user-images.githubusercontent.com/97328622/155913777-aa22f86f-793f-4b83-8178-029fec8cb3df.png)
+
+After changes
+
+![scores_by_school_type_after](https://user-images.githubusercontent.com/97328622/155913790-b5754473-027e-4b72-87f0-644365b92272.png)
+
+
 ## Summary
