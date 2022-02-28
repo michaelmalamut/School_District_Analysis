@@ -39,9 +39,16 @@ After changes
 
 School Summary Results:
 * Minimal changes to averages scores for math and reading
-* Significant changes to percentage of passing math and percentage of passing reading
+* After the changes, averages of both math and reading scores went down by <1%
 
+### Thomas High School vs. Other Schools
+Before changes
 
+![top_schools_before](https://user-images.githubusercontent.com/97328622/155912835-8d41fc16-f18e-4723-b488-88732b53a654.png)
+
+After changes
+
+![top_schools_after](https://user-images.githubusercontent.com/97328622/155912848-136a5a2e-1ea5-40cd-9d17-074bb8297677.png)
 
 
 ## Summary
