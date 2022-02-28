@@ -35,8 +35,13 @@ Before changes
 
 After changes
 
-![labels](https://user-images.githubusercontent.com/97328622/155911777-f7da2145-024d-4eff-8b45-ea84599208bd.png)
 ![image](https://user-images.githubusercontent.com/97328622/155911131-aa248a14-83cc-49f5-98fc-8fb6188e6f85.png)
+
+School Summary Results:
+* Minimal changes to averages scores for math and reading
+* Significant changes to percentage of passing math and percentage of passing reading
+
+
 
 
 ## Summary
