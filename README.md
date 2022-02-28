@@ -90,3 +90,4 @@ Scores by school type results:
 * remained the same
 
 ## Summary
+Overall, the removal of the freshman reading and math scores didn't change the data by much. Besides the district and school summary where the data changed by less than 1%. The main focus was school spending where he results changed dramatically within the $585-629 and $630-644 spending ranges. All other scores remained the same in school type and school size.
