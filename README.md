@@ -30,11 +30,18 @@ District Summary Results:
 ### School Summary:
 Before changes
 
+![labels](https://user-images.githubusercontent.com/97328622/155911761-a5772445-1189-48f1-aa47-d5319e02efb8.png)
 ![image](https://user-images.githubusercontent.com/97328622/155911096-f8d656df-2d59-4518-920f-daa756fe2c0b.png)
 
 After changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155911131-aa248a14-83cc-49f5-98fc-8fb6188e6f85.png)
+
+School Summary Results:
+* Minimal changes to averages scores for math and reading
+* Significant changes to percentage of passing math and percentage of passing reading
+
+
 
 
 ## Summary
