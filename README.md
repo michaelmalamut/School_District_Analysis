@@ -17,6 +17,7 @@ The school board believes that a dataset shows evidence of academic dishonesty; 
 -schools_complete.csv
 
 ## Results
+![image](https://user-images.githubusercontent.com/97328622/155909718-f54d8b8d-5c54-41da-88c4-e9d9084e7168.png)
 
 
 
