@@ -24,7 +24,7 @@ After Changes
 
 District Summary Results:
 * Changes that took place between the district summary before and after are minimal
-* each category went down by <1%
+* Each category went down by <1%
 
 ### School Summary
 
