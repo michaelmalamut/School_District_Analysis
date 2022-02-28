@@ -62,6 +62,9 @@ After changes
 
 ![scores_by_school_spending_after](https://user-images.githubusercontent.com/97328622/155913650-920edbe1-35c2-4de0-9ad8-fbc8c203be48.png)
 
+Scores by School Spending results:
+* <$584 and $645-675 reamined the same, while $585-629 and $630-644 changed after the changes
+
 ### Scores by School Size
 Before changes
 
