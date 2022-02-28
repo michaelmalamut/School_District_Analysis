@@ -39,9 +39,54 @@ After changes
 
 School Summary Results:
 * Minimal changes to averages scores for math and reading
-* Significant changes to percentage of passing math and percentage of passing reading
+* After the changes, averages of both math and reading scores went down by <1%
 
+### Thomas High School vs. Other Schools
+Before changes
 
+![top_schools_before](https://user-images.githubusercontent.com/97328622/155912835-8d41fc16-f18e-4723-b488-88732b53a654.png)
 
+After changes
+
+![top_schools_after](https://user-images.githubusercontent.com/97328622/155912848-136a5a2e-1ea5-40cd-9d17-074bb8297677.png)
+
+Thomas High School vs. Other Schools results:
+* All of schools remained the same after the changes
+
+### Scores by School Spending
+Before changes
+
+![scores_by_school_spending_before](https://user-images.githubusercontent.com/97328622/155913637-ee9a36ef-436b-4005-9839-03e2ef48c3a5.png)
+
+After changes
+
+![scores_by_school_spending_after](https://user-images.githubusercontent.com/97328622/155913650-920edbe1-35c2-4de0-9ad8-fbc8c203be48.png)
+
+Scores by School Spending results:
+* <$584 and $645-675 reamined the same, while $585-629 and $630-644 changed after the changes
+
+### Scores by School Size
+Before changes
+
+![scores_by_school_size_before](https://user-images.githubusercontent.com/97328622/155913714-275cbbf1-5d02-4f22-a13d-6605194bef2a.png)
+
+After changes
+
+![scores_by_school_size_after](https://user-images.githubusercontent.com/97328622/155913727-ed189600-5e68-4252-b4b9-5fdcf2009ae4.png)
+
+Scores by school size results:
+* remained the same
+
+### Scores by School Type
+Before changes
+
+![scores_by_school_type_before](https://user-images.githubusercontent.com/97328622/155913777-aa22f86f-793f-4b83-8178-029fec8cb3df.png)
+
+After changes
+
+![scores_by_school_type_after](https://user-images.githubusercontent.com/97328622/155913790-b5754473-027e-4b72-87f0-644365b92272.png)
+
+Scores by school type results:
+* remained the same
 
 ## Summary
