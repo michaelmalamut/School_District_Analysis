@@ -28,6 +28,8 @@ District Summary Results:
 
 ### School Summary
 
+![image](https://user-images.githubusercontent.com/97328622/155911096-f8d656df-2d59-4518-920f-daa756fe2c0b.png)
+
 
 
 ## Summary
