@@ -18,7 +18,7 @@ Before changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155909718-f54d8b8d-5c54-41da-88c4-e9d9084e7168.png)
 
-After Changes
+After changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155909765-a9337e72-d049-4b91-89c9-2d2062a2c16c.png)
 
@@ -27,9 +27,13 @@ District Summary Results:
 * Each category went down by <1%
 
 ### School Summary
+Before changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155911096-f8d656df-2d59-4518-920f-daa756fe2c0b.png)
 
+After changes
+
+![image](https://user-images.githubusercontent.com/97328622/155911131-aa248a14-83cc-49f5-98fc-8fb6188e6f85.png)
 
 
 ## Summary
