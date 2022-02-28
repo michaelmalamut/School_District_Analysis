@@ -74,6 +74,9 @@ After changes
 
 ![scores_by_school_size_after](https://user-images.githubusercontent.com/97328622/155913727-ed189600-5e68-4252-b4b9-5fdcf2009ae4.png)
 
+Scores by school size results:
+* remained the same
+
 ### Scores by School Type
 Before changes
 
@@ -83,5 +86,7 @@ After changes
 
 ![scores_by_school_type_after](https://user-images.githubusercontent.com/97328622/155913790-b5754473-027e-4b72-87f0-644365b92272.png)
 
+Scores by school type results:
+* remained the same
 
 ## Summary
