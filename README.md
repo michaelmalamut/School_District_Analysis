@@ -26,6 +26,12 @@ After Changes
 
 ![image](https://user-images.githubusercontent.com/97328622/155909765-a9337e72-d049-4b91-89c9-2d2062a2c16c.png)
 
+District Summary Results:
+-Changes that took place between the district summary before and after are minimal
+-each category went down by <1%
+
+### School Summary
+
 
 
 ## Summary
